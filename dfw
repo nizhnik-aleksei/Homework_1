@@ -1,0 +1,36 @@
+[33mcommit 73908088d8e5be22c8df81def93ef121d6e9088c[m
+Merge: 68494c4 819c760
+Author: Aleksei Nizhnik <nizhnik.aleksei@gmail.com>
+Date:   Mon Feb 8 00:20:50 2016 +0200
+
+    Merge branch 'master' of github.com:nizhnik-aleksei/Homework_1
+
+[33mcommit 68494c44cdcac0296119f4ea40a3d270b4fb0f3e[m
+Author: Aleksei Nizhnik <nizhnik.aleksei@gmail.com>
+Date:   Sun Feb 7 23:46:11 2016 +0200
+
+    homework2
+
+[33mcommit 819c7601947686be6b24c716fb8a50605fe6d8b6[m
+Author: Aleksei Nizhnik <nizhnik.aleksei@gmail.com>
+Date:   Sun Feb 7 23:46:11 2016 +0200
+
+    Task_2
+
+[33mcommit 1790bbef1d0b7bd252021a8a83395060973c1d28[m
+Author: nizhnik-aleksei <nizhnik.aleksei@gmail.com>
+Date:   Sun Feb 7 20:38:53 2016 +0200
+
+    Create main.rb
+
+[33mcommit 2f37def6802acd5bb5bcf606b754eb1db63e038b[m
+Author: nizhnik-aleksei <nizhnik.aleksei@gmail.com>
+Date:   Sat Feb 6 11:03:05 2016 +0200
+
+    Delete hello_ruby.rb
+
+[33mcommit 960d019f8c075e0a8ff74efdefe2395cba807a8d[m
+Author: Aleksei Nizhnik <nizhnik.aleksei@gmail.com>
+Date:   Sun Jan 31 09:51:46 2016 +0200
+
+    Created Homework_1
